@@ -1,0 +1,15 @@
+header .nav {
+  background-color: black;
+  color: white;
+  }
+
+.flex-containter {
+  display: flex;
+}
+
+
+
+.flex-containter img {
+  width: 100%;
+
+}
